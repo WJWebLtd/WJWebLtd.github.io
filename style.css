@@ -1,0 +1,31 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    text-align: center;
+}
+
+div {
+    margin-top: 0.5em;
+}
+
+heading img {
+    margin: auto;
+}
+
+.description {
+    font-style: italic;
+}
+
+footer {
+    margin-top: 4rem;
+    font-size: 80%;
+}
+
+a {
+    color: #0080FF;
+}
+
+@media (min-height: 800px) {
+    main {
+        margin-top: 200px;
+    }
+}
